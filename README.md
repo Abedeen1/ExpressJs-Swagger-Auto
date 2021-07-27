@@ -2,6 +2,7 @@
 node version 14
 
 git clone https://github.com/Abedeen1/ExpressJs-Swagger-Auto.git
+
 cd ExpressJs-Swagger-Auto
 
 npm install

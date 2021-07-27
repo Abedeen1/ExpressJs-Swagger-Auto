@@ -6,6 +6,7 @@ git clone https://github.com/Abedeen1/ExpressJs-Swagger-Auto.git
 cd ExpressJs-Swagger-Auto
 
 npm install
+
 npm run dev
 
 http://localhost:3000/api-docs
